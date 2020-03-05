@@ -1,4 +1,4 @@
-#########################################################################
+###########################################################################
 # Define a Builder stage and build app inside it.........
 FROM docker.io/ubuntu:latest
 LABEL maintainer="lzha@redhat.com"
